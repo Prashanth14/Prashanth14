@@ -29,11 +29,11 @@ My name is Prashanth Reddy and I'm a Backend Product developer. I'm from Hyderab
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
 
 
-<!-- ### Live Projects -->
+ ### Live Projects
 
-<!-- live starts -->
+ live starts 
 
-<!-- - [Ecommerce Website](http://mern-ecom-frontend.herokuapp.com/) -->
+ - [Ecommerce Website](http://mern-ecom-frontend.herokuapp.com/) 
 
 
   <!-- live ends -->
