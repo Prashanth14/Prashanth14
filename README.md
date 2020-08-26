@@ -25,6 +25,7 @@ My name is Prashanth Reddy and I'm a Backend Product developer. I'm from Hyderab
 ![](https://img.shields.io/badge/Code-express%20Js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostMan-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-DataStrctures-informational?style=flat&logo=datastructures&logoColor=white&color=2bbc8a)
 
 
