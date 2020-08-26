@@ -24,6 +24,8 @@ My name is Prashanth Reddy and I'm a Backend Product developer. I'm from Hyderab
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-express%20Js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostMan-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+
 
 
  ### Live Projects
