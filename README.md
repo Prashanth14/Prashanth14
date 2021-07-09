@@ -33,15 +33,7 @@ My name is Prashanth Reddy and I'm a Backend Product developer. I'm from Hyderab
 
 
 
- ### Live Projects
-
- live starts 
-
- - [Ecommerce Website](http://mern-ecom-frontend.herokuapp.com/) 
-
-
-  <!-- live ends -->
-
+ 
 <!-- live starts -->
 
 <!-- - [Image Puzzle Game](https://sadhanareddyb.github.io/IMAGE-PUZZLE/) -->
