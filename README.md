@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-My name is Prashanth Reddy and I'm a Backend Product developer. I'm from Hyderabad,India. You can find me on   <a href="https://www.linkedin.com/in/kadire-prashanth-reddy-728974141/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+My name is Prashanth Reddy and I'm a Sotware developer. I'm from Hyderabad,India. You can find me on   <a href="https://www.linkedin.com/in/kadire-prashanth-reddy-728974141/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 
 ## 🔧 Technologies & Tools
