@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-My name is Prashanth Reddy and I'm a Sotware developer. I'm from Hyderabad,India. You can find me on   <a href="https://www.linkedin.com/in/kadire-prashanth-reddy-728974141/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+My name is Prashanth Reddy and I'm a Sotware developer. I'm a graduate student at Clemson University in Computer Science. You can find me on   <a href="https://www.linkedin.com/in/kadire-prashanth-reddy-728974141/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=Php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-DataStrctures-informational?style=flat&logo=datastructures&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Algorithms-informational?style=flat&logo=Algorithms&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
