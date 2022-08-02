@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-My name is Prashanth Reddy and I'm a Sotware developer. I'm a graduate student at Clemson University in Computer Science. You can find me on   <a href="https://www.linkedin.com/in/kadire-prashanth-reddy-728974141/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+This is Prashanth Reddy Kadire, a graduate student at Clemson University in Computer Science. You can find me on   <a href="https://www.linkedin.com/in/kadire-prashanth-reddy-728974141/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 
 ## 🔧 Technologies & Tools
