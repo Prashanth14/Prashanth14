@@ -21,12 +21,12 @@ My name is Prashanth Reddy and I'm a Sotware developer. I'm from Hyderabad,India
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-DataStrctures-informational?style=flat&logo=datastructures&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Algorithms-informational?style=flat&logo=Algorithms&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-expressJs%20Js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodeJs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
