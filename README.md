@@ -34,7 +34,6 @@ My name is Prashanth Reddy and I'm a Sotware developer. I'm a graduate student a
 ![](https://img.shields.io/badge/Tools-Sql-informational?style=flat&logo=Sql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostMan-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-DataStrctures-informational?style=flat&logo=datastructures&logoColor=white&color=2bbc8a)
 
 
 
