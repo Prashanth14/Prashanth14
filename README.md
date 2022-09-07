@@ -29,7 +29,7 @@ This is Prashanth Reddy Kadire, a graduate student at Clemson University in Comp
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-expressJs%20Js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Laravel%20Js-informational?style=flat&logo=Laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=nodeJs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Sql-informational?style=flat&logo=Sql&logoColor=white&color=2bbc8a)
