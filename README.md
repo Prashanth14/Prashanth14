@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ### Hi there 👋
 I am Prashanth Reddy Kadire, a Full Stack Developer with a passion for turning innovative ideas into powerful software solutions. I'm currently based in Atlanta, GA, but I'm open to exciting opportunities anywhere.
 With a background in Computer Science and Engineering, I have a solid foundation in the latest technologies and a proven track record of bringing my technical expertise to life through software projects that align seamlessly with organizational goals.
-You can find me on   <a href="https://www.linkedin.com/in/kadire-prashanth-reddy-728974141/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 
 ## 🔧 Technologies & Tools
